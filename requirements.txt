@@ -4,7 +4,8 @@ seaborn
 scipy
 statsmodels
 scikit-learn
-pickle
+streamlit
 time
 logging
-streamlit
+pickle
+
