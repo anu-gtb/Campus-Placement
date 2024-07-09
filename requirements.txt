@@ -3,7 +3,7 @@ matplotlib
 seaborn
 scipy
 statsmodels
-sklearn
+scikit-learn
 pickle
 time
 logging
