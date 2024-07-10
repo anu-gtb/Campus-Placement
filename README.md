@@ -15,13 +15,13 @@ Tools and Technologies used -:
 
 The dataset contains a total of 215 non-null rows and 15 columns.
 
-1. Pandas - EDA 
-2. Scikit-Learn, Scipy and StatsModels - Data Preprocessing and Feature Extraction
-3. Matplotlib and Seaborn - Data Visualization
-4. Logistic Regression - Final model training(best model chosen)
-5. Scikit-Learn Metrics - Evaluation
-6. Streamlit - For User Interface development
-7. Streamlit Cloud - Deployment
+2. Pandas - EDA 
+3. Scikit-Learn, Scipy and StatsModels - Data Preprocessing and Feature Extraction
+4. Matplotlib and Seaborn - Data Visualization
+5. Logistic Regression - Final model training(best model chosen)
+6. Scikit-Learn Metrics - Evaluation
+7. Streamlit - For User Interface development
+8. Streamlit Cloud - Deployment
 
 Database Link -: https://astra.datastax.com/org/0dd23226-b7a5-45db-9a1d-73ce17d26290/database/35d88150-d1f8-48c5-a5ef-3409fb0a3339
 
