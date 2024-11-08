@@ -23,7 +23,7 @@ The dataset contains a total of 215 non-null rows and 15 columns.
 7. Streamlit - For User Interface development
 8. Streamlit Cloud - Deployment
 
-Database Link -: https://astra.datastax.com/org/0dd23226-b7a5-45db-9a1d-73ce17d26290/database/35d88150-d1f8-48c5-a5ef-3409fb0a3339
+Database Link -: https://astra.datastax.com/org/0dd23226-b7a5-45db-9a1d-73ce17d26290/database/a5524767-c3d6-41f9-a8af-ff6043cfd45e/data-explorer
 
 
 ![front](https://github.com/anu-gtb/Campus-Placement/assets/140297541/2f15e333-29ac-4457-b17d-73a8b276d686)
